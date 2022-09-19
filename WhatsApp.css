@@ -1,0 +1,389 @@
+.header {
+    position: fixed;
+    width: 100%;
+    background-color: #128c7e;
+    color: white;
+    font-size: 15px;
+    line-height: 26px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    height: 91px;
+    display: flex;
+    align-items: center;
+    font-weight: 400;
+
+}
+
+body {
+    margin: 0;
+}
+
+.image1 {
+    margin-left: 235px;
+
+
+}
+
+.app {
+    margin-left: 105px;
+}
+
+.features {
+    margin-left: 55px;
+}
+
+.download {
+    margin-left: 55px;
+}
+
+.privacy {
+    margin-left: 55px;
+}
+
+.helpcenter {
+    margin-left: 55px;
+}
+
+.glob {
+    margin-left: 55px;
+    height: 16px;
+    width: 16px;
+    
+}
+
+.en {
+    margin-left: 4px;
+}
+
+.arrow {
+    margin-left: 4px;
+    width: 15px;
+    height: 15px;
+}
+
+.main {
+    margin-left: 366px;
+
+    margin-top: 155px;
+    height: 572px;
+    width: 394px;
+    float: left;
+}
+
+.line1 {
+    margin-top: 70px;
+    font-size: 33px;
+    line-height: 42px;
+    font-weight: 400;
+
+    font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+.line2 {
+    font-size: 18px;
+    font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 28px;
+}
+
+.line3 {
+    font-size: 16px;
+    font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #5E5E5E;
+    line-height: 24.66px;
+}
+
+.android{
+    margin-top: 35px;
+height: 18px;
+width: 18px;
+ line-height: 26px;
+
+
+}
+.iphone
+{
+    margin-top:15px; 
+    height: 18px;
+    width: 18px;
+    line-height: 26px;
+}
+.mac{
+    margin-top:15px;
+    height: 18px;
+    width: 18px;   
+    line-height: 26px;
+}
+
+.phone1 {
+
+    color: #fff;
+    padding-top: 155px;
+    margin-left: 837px;
+}
+
+.p {
+    width: 304px;
+    height: 572px;
+}
+
+.bottomleft {
+
+    margin-left: 40px;
+    margin-top: 66px;
+    width: 704px;
+    height: 851px;
+    background-color: #d8e8ea;
+    font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    float: left;
+    text-align: center
+}
+
+.bottomright {
+    margin-left: 32px;
+    margin-top: 66px;
+    width: 704px;
+    height: 851px;
+    align-items: center;
+    background-color: #e7f0e4;
+    font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    float: left;
+
+    text-align: center;
+
+
+}
+
+.line11 {
+    margin-top: 80px;
+    font-size: 34px;
+    width: 704px;
+    font-weight: 700;
+    line-height: 36px;
+    height: 44px;
+
+}
+
+.line12 {
+    margin-top: 18px;
+    margin-left: 70px;
+    width: 563px;
+    height: 104px;
+    line-height: 26px;
+
+}
+
+.line13 {
+    margin-top: 36px;
+    margin-left: 70px;
+    width: 563px;
+    height: 114px;
+    line-height: 26px;
+}
+
+a:link {
+    color: #39b3ed;
+    text-decoration:solid;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #39b3ed;
+}
+
+.phone2 {
+
+    margin-top: 55px;
+    margin-bottom: 0px;
+    align-self: bottom;
+}
+
+.p2 {
+    width: 390px;
+    height: 400px;
+}
+
+.anim1 {
+
+   margin-left: 150px;
+   margin-top: 88px;
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    background-color: #77d7c8;
+    align-items: center;
+    display: flex;
+    padding-left: 25px;
+
+}
+
+.line21 {
+    margin-top: 56px;
+    width: 100%;
+    height: 34px;
+    color: #5e5e5e;
+    font-size: 16px;
+    letter-spacing: 2.4px;
+    line-height: 34px;
+    font-weight: 600;
+}
+
+.line22 {
+
+    height: 44px;
+    font-size: 34px;
+    font-weight: 750;
+    align-items: center;
+}
+
+.line23 {
+    margin-left: 70px;
+    margin-top: 18px;
+    font-size: 18px;
+    line-height: 26px;
+    height: 130px;
+    width: 563px;
+}
+
+.buttonspace {
+    height: 160px;
+    align-items: center;
+
+}
+
+.button {
+    width: 225px;
+    height: 55px;
+    margin-top: 55px;
+    margin-left: 660px;
+    border-radius: 41px;
+    font-size: 16px;
+    line-height: 19.2px;
+    border-color: #77d7c8;
+    color: #128c7e;
+    background-color: #ffffff;
+
+}
+
+.bottom {
+
+    margin-top: 980px;
+    color: #ffffff;
+    height: 406px;
+    width: 100%;
+    position:relative;
+    bottom: 0px;
+}
+.lowest{
+    height: 340px;
+    background-color: #273443;
+    font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+.w{
+    margin-top: 42px;
+    margin-left: 235px;
+    height: 199px;
+    width: 262px;
+    
+    position: absolute;
+    display: flex;
+    line-height: 1.65;
+
+
+}
+.wh{
+    font-size: 16px;
+    font-weight: 550;
+    letter-spacing: 1.7px;
+}
+.wb{
+    margin-top: 40px;
+    font-size: 17px;
+    letter-spacing:normal;
+    position: absolute;
+    
+}
+.c{
+    margin-top: 42px;
+    margin-left: 497px;
+    height: 229px;
+    width: 262px;
+    position: absolute;
+    display: flex;
+    line-height:1.65;
+
+}
+.ch{
+    font-size: 16px;
+    font-weight: 550;
+    letter-spacing: 1.7px;
+}
+.cb{
+    margin-top: 40px;
+    font-size: 17px;
+    letter-spacing: normal;
+    position: absolute;
+    
+}
+.d{
+    margin-left: 263px;
+    height: 139px;
+    width: 262px;
+    position: absolute;
+    display: flex;
+    line-height: 1.65;
+}
+.dh{
+    font-size: 16px;
+    font-weight: 550;
+    letter-spacing:1.7px;
+}
+.db{
+    margin-top: 40px;
+    font-size: 17px;
+    letter-spacing: normal;
+    position: absolute;
+    
+
+}
+.h{
+    
+    margin-left: 420px;
+    height: 169px;
+    width: 262px;
+    line-height: 1.6;
+
+}
+.hh{
+    font-size: 16px;
+    font-weight: 550;
+    letter-spacing:1.7px;
+
+}
+.hb{
+    font-size: 18px;
+    letter-spacing: normal;
+}
+
+
+.low {
+position: absolute;
+bottom: 0px;
+font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color:#1c1e21;
+    height: 66px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+
+}
+.low1{
+    margin-left:235px ;
+    font-size: 18px;
+    position: absolute;
+    display: flex;
+}
+.low2{
+    margin-left:1145px;
+    font-size: 16px;
+}
