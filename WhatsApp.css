@@ -92,25 +92,52 @@ body {
     line-height: 24.66px;
 }
 
-.android{
+.and{
+    width: 394px;
+    height: 26px;
+    color: #1cb39b;
     margin-top: 35px;
-height: 18px;
-width: 18px;
- line-height: 26px;
-
+    font-size: 21px;
+    }
+ .and:hover{
+        text-decoration: underline;
+    }
+.android {
+     height: 18px;
+    width: 18px;
+}
+.iph:hover{
+    text-decoration: underline;
+}
+.iph{
+    width: 394px;
+    height: 26px;
+    color: #1cb39b;
+    font-size: 21px;
 
 }
-.iphone
-{
-    margin-top:15px; 
+.iphone {
+    margin-top: 15px;
     height: 18px;
     width: 18px;
     line-height: 26px;
 }
-.mac{
-    margin-top:15px;
+
+.pc{
+    width: 394px;
+    height: 26px;
+    color: #1cb39b;
+    font-size: 21px;
+    margin-top: 10px;
+
+}
+.pc:hover{
+    text-decoration: underline;
+}
+.mac {
+    margin-top: 15px;
     height: 18px;
-    width: 18px;   
+    width: 18px;
     line-height: 26px;
 }
 
@@ -180,9 +207,8 @@ width: 18px;
     line-height: 26px;
 }
 
-a:link {
+a {
     color: #39b3ed;
-    text-decoration:solid;
 }
 
 a:hover {
